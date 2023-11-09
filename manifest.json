@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "ImageMystery",
+  "description": "Image:Mystery.",
   "dir": "ltr",
   "display": "standalone",
-  "name": "ImageMystery",
+  "name": "Image:Mystery.",
   "orientation": "any",
   "scope": "/",
-  "short_name": "ImageMystery",
+  "short_name": "Image:Mystery.",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "ImageMystery",
+      "name": "Image:Mystery.",
       "url": "",
       "description": ""
     }
